@@ -1,0 +1,11 @@
+{
+  "name": "web3-hasan",
+  "version": "1.0.0",
+  "description": "web3-hasan",
+  "main": "index.ts",
+  "author": "Hasan Ahamed <officials.hasan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  }
+}
